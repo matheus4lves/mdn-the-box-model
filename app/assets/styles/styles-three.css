@@ -1,0 +1,9 @@
+@import "../styles/base/_global.css";
+@import "../styles/modules/_primary-nav.css";
+
+.box span {
+  background-color: pink;
+  border: 5px solid black;
+  padding: 1em;
+  display: inline-block;
+}
